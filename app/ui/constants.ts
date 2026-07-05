@@ -87,7 +87,6 @@ export const ARTICLE_AUTHOR_ROLE_IDS = [
 ] as const;
 
 // Discord IDs allowed to fire the /announce "PizzaDAO Crew" trigger (romana-35249).
-// TODO(romana-35249): replace placeholder with shaun@sparkable.com's real Discord user ID.
 export const ANNOUNCE_ALLOWED_DISCORD_IDS: string[] = [
-  "REPLACE_WITH_SHAUN_DISCORD_ID", // shaun@sparkable.com
+  "581986678923853836", // shaun@sparkable.com
 ];
